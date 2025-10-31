@@ -591,5 +591,5 @@
 [591] word='Ppenguinzz33' sha1=ed34039de7c5ef56ce4a55db6e476f0b6297e5ba
 [592] word='Primetime1' sha1=4bfeae3d611c96378911c7399b4eda5d72ff28ff
 [593] word='Princess1' sha1=aa1c7d931cf140bb35a5a16adeb83a551649c3b9
-2025-10-30 08:45:09: MATCH FOUND at line 593 -> 'Princess1' sha1=aa1c7d931cf140bb35a5a16adeb83a551649c3b9
-2025-10-30 08:45:09: DONE. Cracked: 'Princess1' (hash: aa1c7d931cf140bb35a5a16adeb83a551649c3b9). Lines checked: 593. Time: 58.1175ms
+2025-10-31 19:44:06: MATCH FOUND at line 593 -> 'Princess1' sha1=aa1c7d931cf140bb35a5a16adeb83a551649c3b9
+2025-10-31 19:44:06: DONE. Cracked: 'Princess1' (hash: aa1c7d931cf140bb35a5a16adeb83a551649c3b9). Lines checked: 593. Time: 1.7006ms
